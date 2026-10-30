@@ -19,7 +19,7 @@ Chia sẻ bởi **Nhật Dương** · [Facebook](https://www.facebook.com/nhatdu
 ## Cài đặt
 
 ```bash
-git clone https://github.com/<user>/kallaway-style-skill ~/.claude/skills/kallaway-style
+git clone https://github.com/Annie-246/kallaway-style-skill ~/.claude/skills/kallaway-style
 ```
 
 Trên Windows: clone vào `%USERPROFILE%\.claude\skills\kallaway-style`.
