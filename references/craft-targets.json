@@ -1,0 +1,74 @@
+{
+ "pacing": {
+  "split_share": [
+   0.72,
+   0.82
+  ],
+  "full_median_s": [
+   1.5,
+   3.0
+  ],
+  "full_max_s": [
+   2.5,
+   6.0
+  ],
+  "split_median_s": [
+   4.0,
+   8.0
+  ],
+  "longest_still_hold_s": [
+   0.0,
+   2.5
+  ],
+  "still_holds_over_3s": [
+   0,
+   1
+  ]
+ },
+ "spacing_px": {
+  "top_margin_median": [
+   90,
+   160
+  ],
+  "gap_median": [
+   70,
+   110
+  ],
+  "bottom_gap_to_caption_median": [
+   35,
+   190
+  ],
+  "blocks_median": [
+   1,
+   3
+  ],
+  "stage_fill_median": [
+   0.1,
+   0.27
+  ]
+ },
+ "color": {
+  "accent_coverage_median": [
+   0.01,
+   0.08
+  ],
+  "accent_coverage_p90": [
+   0.08,
+   0.13
+  ],
+  "accent_families_per_frame_median": [
+   1,
+   3
+  ]
+ },
+ "hue_mix": {
+  "green": [
+   0.0,
+   0.07
+  ],
+  "red": [
+   0.2,
+   0.6
+  ]
+ }
+}

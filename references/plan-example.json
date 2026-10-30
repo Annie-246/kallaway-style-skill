@@ -1,0 +1,582 @@
+{
+ "fps": 30,
+ "duration": 9.86,
+ "source": {
+  "video": "source/cut.mp4",
+  "matte": "source/person.webm",
+  "w": 1080,
+  "h": 1920,
+  "face": {
+   "x": 555,
+   "y": 658
+  },
+  "cardZoom": 1.0
+ },
+ "words": [
+  {
+   "s": 0.0,
+   "e": 0.24,
+   "w": "is"
+  },
+  {
+   "s": 0.24,
+   "e": 0.38,
+   "w": "because"
+  },
+  {
+   "s": 0.38,
+   "e": 0.56,
+   "w": "we're"
+  },
+  {
+   "s": 0.56,
+   "e": 0.86,
+   "w": "using"
+  },
+  {
+   "s": 0.86,
+   "e": 1.16,
+   "w": "the"
+  },
+  {
+   "s": 1.16,
+   "e": 1.5,
+   "w": "wrong"
+  },
+  {
+   "s": 1.5,
+   "e": 1.94,
+   "w": "story"
+  },
+  {
+   "s": 1.94,
+   "e": 2.16,
+   "w": "art."
+  },
+  {
+   "s": 2.32,
+   "e": 2.36,
+   "w": "In"
+  },
+  {
+   "s": 2.36,
+   "e": 2.44,
+   "w": "the"
+  },
+  {
+   "s": 2.44,
+   "e": 2.66,
+   "w": "modern"
+  },
+  {
+   "s": 2.66,
+   "e": 2.98,
+   "w": "era,"
+  },
+  {
+   "s": 3.16,
+   "e": 3.22,
+   "w": "the"
+  },
+  {
+   "s": 3.22,
+   "e": 3.72,
+   "w": "climax"
+  },
+  {
+   "s": 3.72,
+   "e": 4.28,
+   "w": "doesn't"
+  },
+  {
+   "s": 4.28,
+   "e": 4.54,
+   "w": "happen"
+  },
+  {
+   "s": 4.54,
+   "e": 4.7,
+   "w": "in"
+  },
+  {
+   "s": 4.7,
+   "e": 4.78,
+   "w": "the"
+  },
+  {
+   "s": 4.78,
+   "e": 5.0,
+   "w": "middle"
+  },
+  {
+   "s": 5.0,
+   "e": 5.22,
+   "w": "of"
+  },
+  {
+   "s": 5.22,
+   "e": 5.32,
+   "w": "the"
+  },
+  {
+   "s": 5.32,
+   "e": 5.6,
+   "w": "story."
+  },
+  {
+   "s": 5.78,
+   "e": 5.9,
+   "w": "It's"
+  },
+  {
+   "s": 5.9,
+   "e": 6.0,
+   "w": "kind"
+  },
+  {
+   "s": 6.0,
+   "e": 6.08,
+   "w": "of"
+  },
+  {
+   "s": 6.08,
+   "e": 6.18,
+   "w": "like"
+  },
+  {
+   "s": 6.18,
+   "e": 6.3,
+   "w": "a"
+  },
+  {
+   "s": 6.3,
+   "e": 6.56,
+   "w": "cheat"
+  },
+  {
+   "s": 6.56,
+   "e": 6.82,
+   "w": "sheet"
+  },
+  {
+   "s": 6.82,
+   "e": 6.94,
+   "w": "that"
+  },
+  {
+   "s": 6.94,
+   "e": 7.02,
+   "w": "you"
+  },
+  {
+   "s": 7.02,
+   "e": 7.14,
+   "w": "can"
+  },
+  {
+   "s": 7.14,
+   "e": 7.26,
+   "w": "just"
+  },
+  {
+   "s": 7.26,
+   "e": 7.52,
+   "w": "feed"
+  },
+  {
+   "s": 7.52,
+   "e": 7.7,
+   "w": "to"
+  },
+  {
+   "s": 7.7,
+   "e": 7.96,
+   "w": "AI"
+  },
+  {
+   "s": 7.96,
+   "e": 8.24,
+   "w": "so"
+  },
+  {
+   "s": 8.24,
+   "e": 8.36,
+   "w": "you"
+  },
+  {
+   "s": 8.36,
+   "e": 8.56,
+   "w": "never"
+  },
+  {
+   "s": 8.56,
+   "e": 8.84,
+   "w": "write"
+  },
+  {
+   "s": 8.84,
+   "e": 8.96,
+   "w": "a"
+  },
+  {
+   "s": 8.96,
+   "e": 9.22,
+   "w": "flat"
+  },
+  {
+   "s": 9.22,
+   "e": 9.5,
+   "w": "script"
+  },
+  {
+   "s": 9.5,
+   "e": 9.72,
+   "w": "again."
+  }
+ ],
+ "captions": {
+  "serif": [
+   "story art"
+  ],
+  "hide": []
+ },
+ "music": {
+  "src": null,
+  "volume": 0.14,
+  "drops": [
+   [
+    3.2,
+    3.7
+   ]
+  ]
+ },
+ "sfx": [],
+ "segments": [
+  {
+   "start": 0,
+   "end": 2.3,
+   "layout": "split",
+   "theme": "dark",
+   "scenes": [
+    {
+     "type": "chart",
+     "at": 0,
+     "title": {
+      "text": "Traditional _Story Arc_"
+     },
+     "curve": {
+      "points": [
+       [
+        0,
+        0.03
+       ],
+       [
+        0.3,
+        0.4
+       ],
+       [
+        0.5,
+        0.72
+       ],
+       [
+        0.7,
+        0.38
+       ],
+       [
+        1,
+        0.02
+       ]
+      ],
+      "color": "red",
+      "at": 0.15,
+      "dur": 0.9
+     },
+     "labels": [
+      {
+       "i": 0,
+       "text": "Initial Conflict",
+       "at": 0.6
+      },
+      {
+       "i": 2,
+       "text": "Climax",
+       "at": 0.9,
+       "side": "top"
+      }
+     ]
+    },
+    {
+     "type": "doc",
+     "at": 1.2,
+     "transition": "push",
+     "title": {
+      "text": "{Kịch bản chuẩn}\nCho video _ngắn_",
+      "size": 60
+     },
+     "mode": "build",
+     "sections": [
+      {
+       "label": "Hook",
+       "color": "red",
+       "lines": 3
+      },
+      {
+       "label": "Lock-in",
+       "color": "yellow",
+       "lines": 3
+      },
+      {
+       "label": "Body",
+       "color": "purple",
+       "lines": 5
+      },
+      {
+       "label": "CTA",
+       "color": "green",
+       "lines": 3
+      }
+     ],
+     "layers": [
+      {
+       "type": "sidetags",
+       "items": [
+        {
+         "text": "Mọi ngách",
+         "at": 1.7,
+         "x": 270,
+         "y": 640
+        },
+        {
+         "text": "Views",
+         "at": 1.9,
+         "x": 815,
+         "y": 560,
+         "side": "right"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 2.3,
+   "end": 3.7,
+   "layout": "full",
+   "zoom": 1.0
+  },
+  {
+   "start": 3.7,
+   "end": 5.75,
+   "layout": "split",
+   "theme": "dark",
+   "scenes": [
+    {
+     "type": "chart",
+     "at": 3.7,
+     "title": {
+      "text": "Modern _Story Arc_"
+     },
+     "curve": {
+      "points": [
+       [
+        0,
+        0.55
+       ],
+       [
+        0.12,
+        0.55
+       ],
+       [
+        0.22,
+        0.9
+       ],
+       [
+        0.32,
+        0.3
+       ],
+       [
+        0.45,
+        0.7
+       ],
+       [
+        0.55,
+        0.25
+       ],
+       [
+        0.68,
+        0.68
+       ],
+       [
+        0.78,
+        0.35
+       ],
+       [
+        0.88,
+        0.6
+       ],
+       [
+        1,
+        0.02
+       ]
+      ],
+      "color": "white",
+      "at": 3.75,
+      "dur": 0.6
+     },
+     "trace": {
+      "from": 0,
+      "to": 0.3,
+      "at": 4.4,
+      "dur": 0.6
+     },
+     "valueTag": {
+      "i": 0,
+      "text": "70%",
+      "at": 4.3
+     },
+     "bar": {
+      "at": 4.9,
+      "segments": [
+       {
+        "w": 0.12,
+        "color": "yellow"
+       },
+       {
+        "w": 0.12,
+        "color": "yellow"
+       },
+       {
+        "w": 0.1,
+        "color": "grey"
+       },
+       {
+        "w": 0.12,
+        "color": "yellow"
+       },
+       {
+        "w": 0.54,
+        "color": "grey"
+       }
+      ]
+     },
+     "chips": {
+      "from": 2,
+      "x": 330,
+      "y": 700,
+      "items": [
+       {
+        "text": "Contrast Moment",
+        "at": 5.0
+       },
+       {
+        "text": "Contrarian Take",
+        "at": 5.25
+       }
+      ]
+     },
+     "camera": [
+      {
+       "at": 4.3,
+       "dur": 0.5,
+       "x": 330,
+       "y": 620,
+       "scale": 1.45
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "start": 5.75,
+   "end": 6.6,
+   "layout": "media",
+   "src": "media/m1.jpg",
+   "lines": [
+    {
+     "text": "Something to release that",
+     "at": 5.78
+    },
+    {
+     "text": "Initial hit of _dopamine_",
+     "at": 5.95
+    }
+   ],
+   "phone": {
+    "at": 6.15,
+    "small": "in the viewers",
+    "big": "brain"
+   }
+  },
+  {
+   "start": 6.6,
+   "end": 7.9,
+   "layout": "split",
+   "theme": "dark",
+   "scenes": [
+    {
+     "type": "timeline",
+     "at": 6.6,
+     "title": {
+      "text": "Mạng xã hội _trước đây_",
+      "fixed": true,
+      "size": 46,
+      "y": 110
+     },
+     "years": [
+      "2021",
+      "2022",
+      "2023",
+      "2024"
+     ],
+     "focus": [
+      {
+       "at": 6.6,
+       "index": 0
+      },
+      {
+       "at": 6.75,
+       "index": 3,
+       "dur": 0.5
+      }
+     ],
+     "branch": {
+      "index": 3,
+      "at": 7.2,
+      "labels": [
+       {
+        "text": "Giải trí",
+        "at": 7.25,
+        "media": "media/m2.jpg"
+       },
+       {
+        "text": "Giáo dục",
+        "at": 7.4,
+        "greenAt": 7.6
+       }
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "start": 7.9,
+   "end": 9.86,
+   "layout": "split",
+   "theme": "light",
+   "scenes": [
+    {
+     "type": "docgrid",
+     "at": 7.9,
+     "title": {
+      "text": "Comment _“Story”_\n{To Get The Doc}",
+      "size": 62
+     },
+     "count": 8,
+     "cols": 3,
+     "y": 360
+    }
+   ]
+  }
+ ]
+}

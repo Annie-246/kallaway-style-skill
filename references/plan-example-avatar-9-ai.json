@@ -1,0 +1,1364 @@
+{
+ "fps": 30,
+ "duration": 27.66,
+ "source": {
+  "video": "source/cut.mp4",
+  "matte": "source/person.webm",
+  "cardEyeY": -40,
+  "w": 1920,
+  "h": 1080,
+  "face": {
+   "x": 960,
+   "y": 412
+  },
+  "cardZoom": 1.8
+ },
+ "words": [
+  {
+   "s": 0.0,
+   "e": 0.194,
+   "w": "Dừng"
+  },
+  {
+   "s": 0.194,
+   "e": 0.388,
+   "w": "ngay"
+  },
+  {
+   "s": 0.388,
+   "e": 0.582,
+   "w": "việc"
+  },
+  {
+   "s": 0.582,
+   "e": 0.776,
+   "w": "tốn"
+  },
+  {
+   "s": 0.776,
+   "e": 0.97,
+   "w": "cả"
+  },
+  {
+   "s": 0.97,
+   "e": 1.164,
+   "w": "triệu"
+  },
+  {
+   "s": 1.164,
+   "e": 1.358,
+   "w": "đồng"
+  },
+  {
+   "s": 1.358,
+   "e": 1.552,
+   "w": "mỗi"
+  },
+  {
+   "s": 1.552,
+   "e": 1.746,
+   "w": "tháng"
+  },
+  {
+   "s": 1.746,
+   "e": 1.94,
+   "w": "mua"
+  },
+  {
+   "s": 1.94,
+   "e": 2.6,
+   "w": "ChatGPT"
+  },
+  {
+   "s": 2.6,
+   "e": 2.79,
+   "w": "Plus"
+  },
+  {
+   "s": 2.79,
+   "e": 2.98,
+   "w": "hay"
+  },
+  {
+   "s": 2.98,
+   "e": 3.28,
+   "w": "Midjourney"
+  },
+  {
+   "s": 3.28,
+   "e": 3.58,
+   "w": "đi!"
+  },
+  {
+   "s": 3.58,
+   "e": 3.816,
+   "w": "Nếu"
+  },
+  {
+   "s": 3.816,
+   "e": 4.052,
+   "w": "anh"
+  },
+  {
+   "s": 4.052,
+   "e": 4.288,
+   "w": "em"
+  },
+  {
+   "s": 4.288,
+   "e": 4.525,
+   "w": "chưa"
+  },
+  {
+   "s": 4.525,
+   "e": 4.761,
+   "w": "biết"
+  },
+  {
+   "s": 4.761,
+   "e": 4.997,
+   "w": "9"
+  },
+  {
+   "s": 4.997,
+   "e": 5.233,
+   "w": "công"
+  },
+  {
+   "s": 5.233,
+   "e": 5.469,
+   "w": "cụ"
+  },
+  {
+   "s": 5.469,
+   "e": 5.705,
+   "w": "AI"
+  },
+  {
+   "s": 5.705,
+   "e": 5.942,
+   "w": "hoàn"
+  },
+  {
+   "s": 5.942,
+   "e": 6.178,
+   "w": "toàn"
+  },
+  {
+   "s": 6.178,
+   "e": 6.414,
+   "w": "MIỄN"
+  },
+  {
+   "s": 6.414,
+   "e": 6.65,
+   "w": "PHÍ"
+  },
+  {
+   "s": 6.65,
+   "e": 6.886,
+   "w": "nhưng"
+  },
+  {
+   "s": 6.886,
+   "e": 7.122,
+   "w": "vô"
+  },
+  {
+   "s": 7.122,
+   "e": 7.359,
+   "w": "cùng"
+  },
+  {
+   "s": 7.359,
+   "e": 7.595,
+   "w": "bá"
+  },
+  {
+   "s": 7.595,
+   "e": 7.831,
+   "w": "đạo"
+  },
+  {
+   "s": 7.831,
+   "e": 8.067,
+   "w": "này"
+  },
+  {
+   "s": 8.067,
+   "e": 8.303,
+   "w": "của"
+  },
+  {
+   "s": 8.303,
+   "e": 8.539,
+   "w": "Google."
+  },
+  {
+   "s": 8.539,
+   "e": 8.776,
+   "w": "Nhiều"
+  },
+  {
+   "s": 8.776,
+   "e": 9.012,
+   "w": "bạn"
+  },
+  {
+   "s": 9.012,
+   "e": 9.248,
+   "w": "cứ"
+  },
+  {
+   "s": 9.248,
+   "e": 9.484,
+   "w": "tưởng"
+  },
+  {
+   "s": 9.484,
+   "e": 9.72,
+   "w": "Google"
+  },
+  {
+   "s": 9.72,
+   "e": 9.956,
+   "w": "chỉ"
+  },
+  {
+   "s": 9.956,
+   "e": 10.193,
+   "w": "có"
+  },
+  {
+   "s": 10.193,
+   "e": 10.429,
+   "w": "Gemini"
+  },
+  {
+   "s": 10.429,
+   "e": 10.665,
+   "w": "thôi"
+  },
+  {
+   "s": 10.665,
+   "e": 10.901,
+   "w": "đúng"
+  },
+  {
+   "s": 10.901,
+   "e": 11.137,
+   "w": "không?"
+  },
+  {
+   "s": 11.137,
+   "e": 11.373,
+   "w": "Hôm"
+  },
+  {
+   "s": 11.373,
+   "e": 11.61,
+   "w": "nay"
+  },
+  {
+   "s": 11.61,
+   "e": 11.846,
+   "w": "mình"
+  },
+  {
+   "s": 11.846,
+   "e": 12.082,
+   "w": "sẽ"
+  },
+  {
+   "s": 12.082,
+   "e": 12.318,
+   "w": "xóa"
+  },
+  {
+   "s": 12.318,
+   "e": 12.554,
+   "w": "mù"
+  },
+  {
+   "s": 12.554,
+   "e": 12.79,
+   "w": "AI"
+  },
+  {
+   "s": 12.79,
+   "e": 13.027,
+   "w": "cho"
+  },
+  {
+   "s": 13.027,
+   "e": 13.263,
+   "w": "anh"
+  },
+  {
+   "s": 13.263,
+   "e": 13.499,
+   "w": "em"
+  },
+  {
+   "s": 13.499,
+   "e": 13.735,
+   "w": "với"
+  },
+  {
+   "s": 13.735,
+   "e": 13.971,
+   "w": "hệ"
+  },
+  {
+   "s": 13.971,
+   "e": 14.207,
+   "w": "sinh"
+  },
+  {
+   "s": 14.207,
+   "e": 14.444,
+   "w": "thái"
+  },
+  {
+   "s": 14.444,
+   "e": 14.68,
+   "w": "9"
+  },
+  {
+   "s": 14.68,
+   "e": 14.916,
+   "w": "công"
+  },
+  {
+   "s": 14.916,
+   "e": 15.152,
+   "w": "cụ"
+  },
+  {
+   "s": 15.152,
+   "e": 15.388,
+   "w": "giúp"
+  },
+  {
+   "s": 15.388,
+   "e": 15.624,
+   "w": "tự"
+  },
+  {
+   "s": 15.624,
+   "e": 15.861,
+   "w": "động"
+  },
+  {
+   "s": 15.861,
+   "e": 16.097,
+   "w": "hóa"
+  },
+  {
+   "s": 16.097,
+   "e": 16.333,
+   "w": "từ"
+  },
+  {
+   "s": 16.333,
+   "e": 16.569,
+   "w": "Coding,"
+  },
+  {
+   "s": 16.569,
+   "e": 16.805,
+   "w": "Marketing"
+  },
+  {
+   "s": 16.805,
+   "e": 17.041,
+   "w": "đến"
+  },
+  {
+   "s": 17.041,
+   "e": 17.278,
+   "w": "Media"
+  },
+  {
+   "s": 17.278,
+   "e": 17.514,
+   "w": "nhé!"
+  },
+  {
+   "s": 17.514,
+   "e": 17.75,
+   "w": "Đầu"
+  },
+  {
+   "s": 17.75,
+   "e": 17.986,
+   "w": "tiên"
+  },
+  {
+   "s": 17.986,
+   "e": 18.222,
+   "w": "là"
+  },
+  {
+   "s": 18.222,
+   "e": 18.458,
+   "w": "Google"
+  },
+  {
+   "s": 18.458,
+   "e": 18.695,
+   "w": "AI"
+  },
+  {
+   "s": 18.695,
+   "e": 18.931,
+   "w": "Studio."
+  },
+  {
+   "s": 18.931,
+   "e": 19.167,
+   "w": "Đây"
+  },
+  {
+   "s": 19.167,
+   "e": 19.403,
+   "w": "là"
+  },
+  {
+   "s": 19.403,
+   "e": 19.639,
+   "w": "thiên"
+  },
+  {
+   "s": 19.639,
+   "e": 19.875,
+   "w": "đường"
+  },
+  {
+   "s": 19.875,
+   "e": 20.112,
+   "w": "cho"
+  },
+  {
+   "s": 20.112,
+   "e": 20.348,
+   "w": "anh"
+  },
+  {
+   "s": 20.348,
+   "e": 20.584,
+   "w": "em"
+  },
+  {
+   "s": 20.584,
+   "e": 20.82,
+   "w": "thích"
+  },
+  {
+   "s": 20.82,
+   "e": 21.0,
+   "w": "Vibe"
+  },
+  {
+   "s": 21.0,
+   "e": 21.225,
+   "w": "Coding."
+  },
+  {
+   "s": 21.225,
+   "e": 21.451,
+   "w": "Không"
+  },
+  {
+   "s": 21.451,
+   "e": 21.676,
+   "w": "cần"
+  },
+  {
+   "s": 21.676,
+   "e": 21.902,
+   "w": "giỏi"
+  },
+  {
+   "s": 21.902,
+   "e": 22.127,
+   "w": "lập"
+  },
+  {
+   "s": 22.127,
+   "e": 22.353,
+   "w": "trình,"
+  },
+  {
+   "s": 22.353,
+   "e": 22.578,
+   "w": "chỉ"
+  },
+  {
+   "s": 22.578,
+   "e": 22.804,
+   "w": "cần"
+  },
+  {
+   "s": 22.804,
+   "e": 23.029,
+   "w": "mô"
+  },
+  {
+   "s": 23.029,
+   "e": 23.255,
+   "w": "tả"
+  },
+  {
+   "s": 23.255,
+   "e": 23.48,
+   "w": "ý"
+  },
+  {
+   "s": 23.48,
+   "e": 23.705,
+   "w": "tưởng"
+  },
+  {
+   "s": 23.705,
+   "e": 23.931,
+   "w": "bằng"
+  },
+  {
+   "s": 23.931,
+   "e": 24.156,
+   "w": "tiếng"
+  },
+  {
+   "s": 24.156,
+   "e": 24.382,
+   "w": "Việt"
+  },
+  {
+   "s": 24.382,
+   "e": 24.607,
+   "w": "tự"
+  },
+  {
+   "s": 24.607,
+   "e": 24.833,
+   "w": "nhiên,"
+  },
+  {
+   "s": 24.833,
+   "e": 25.058,
+   "w": "AI"
+  },
+  {
+   "s": 25.058,
+   "e": 25.284,
+   "w": "sẽ"
+  },
+  {
+   "s": 25.284,
+   "e": 25.509,
+   "w": "tự"
+  },
+  {
+   "s": 25.509,
+   "e": 25.735,
+   "w": "viết"
+  },
+  {
+   "s": 25.735,
+   "e": 25.96,
+   "w": "code"
+  },
+  {
+   "s": 25.96,
+   "e": 26.185,
+   "w": "và"
+  },
+  {
+   "s": 26.185,
+   "e": 26.411,
+   "w": "build"
+  },
+  {
+   "s": 26.411,
+   "e": 26.636,
+   "w": "app"
+  },
+  {
+   "s": 26.636,
+   "e": 26.862,
+   "w": "cho"
+  },
+  {
+   "s": 26.862,
+   "e": 27.087,
+   "w": "bạn"
+  },
+  {
+   "s": 27.087,
+   "e": 27.313,
+   "w": "trong"
+  },
+  {
+   "s": 27.313,
+   "e": 27.538,
+   "w": "vài"
+  },
+  {
+   "s": 27.538,
+   "e": 27.764,
+   "w": "phút!"
+  }
+ ],
+ "logos": {
+  "aistudio": {
+   "dark": "logos/aistudio.png",
+   "light": "logos/aistudio.png"
+  },
+  "opal": {
+   "dark": "logos/opal.png",
+   "light": "logos/opal.png"
+  },
+  "notebooklm": {
+   "dark": "logos/notebooklm.png",
+   "light": "logos/notebooklm.png"
+  },
+  "pomelli": {
+   "dark": "logos/pomelli.png",
+   "light": "logos/pomelli.png"
+  },
+  "gemini": {
+   "dark": "logos/gemini.png",
+   "light": "logos/gemini.png"
+  },
+  "stitch": {
+   "dark": "logos/stitch.png",
+   "light": "logos/stitch.png"
+  },
+  "firebase": {
+   "dark": "logos/firebase.png",
+   "light": "logos/firebase.png"
+  },
+  "antigravity": {
+   "dark": "logos/antigravity.png",
+   "light": "logos/antigravity.png"
+  },
+  "chatgpt": {
+   "dark": "logos/chatgpt.png",
+   "light": "logos/chatgpt.png"
+  },
+  "midjourney": {
+   "dark": "logos/midjourney.png",
+   "light": "logos/midjourney.png"
+  },
+  "claude": {
+   "dark": "logos/claude.png",
+   "light": "logos/claude.png"
+  },
+  "figma": {
+   "dark": "logos/figma.png",
+   "light": "logos/figma.png"
+  },
+  "google": {
+   "dark": "logos/google.png",
+   "light": "logos/google.png"
+  },
+  "openai": {
+   "dark": "logos/openai.png",
+   "light": "logos/openai.png"
+  },
+  "flow": {
+   "dark": "logos/flow-white.png",
+   "light": "logos/flow.png"
+  }
+ },
+ "captions": {
+  "serif": [
+   "miễn phí",
+   "vibe coding"
+  ],
+  "hide": [],
+  "splitY": 1085
+ },
+ "music": {
+  "src": "music/bed.mp3",
+  "volume": 0.12,
+  "drops": [
+   [
+    3.53,
+    8.66
+   ]
+  ]
+ },
+ "sfx": [
+  {
+   "src": "sfx/big-boom-sub-drop.mp3",
+   "at": 0.0,
+   "volume": 0.3,
+   "rule": "L5 boom nhẹ - khung đầu"
+  },
+  {
+   "src": "sfx/deep-swoosh.mp3",
+   "at": 11.66,
+   "volume": 0.22,
+   "rule": "L1 whoosh - morph sang hệ sinh thái"
+  },
+  {
+   "src": "sfx/deep-swoosh.mp3",
+   "at": 22.38,
+   "volume": 0.22,
+   "rule": "L1 whoosh - morph sang quy trình build app"
+  }
+ ],
+ "segments": [
+  {
+   "start": 0,
+   "end": 3.53,
+   "layout": "split",
+   "theme": "dark",
+   "scenes": [
+    {
+     "type": "illus",
+     "at": 0,
+     "title": {
+      "text": "Dừng tốn tiền\nmua AI _mỗi tháng_",
+      "size": 70,
+      "mode": "words",
+      "wordTimes": [
+       0.0,
+       0.58,
+       0.97,
+       1.36,
+       1.55,
+       1.75,
+       1.94
+      ]
+     },
+     "items": [
+      {
+       "k": "orb",
+       "x": 540,
+       "y": 560,
+       "r": 190,
+       "color": "red",
+       "at": 0.8,
+       "dur": 0.5
+      },
+      {
+       "k": "counter",
+       "from": 0,
+       "to": 1000000,
+       "suffix": "đ",
+       "x": 540,
+       "y": 540,
+       "size": 118,
+       "at": 0.9,
+       "dur": 0.7,
+       "color": "red"
+      },
+      {
+       "k": "label",
+       "text": "mỗi tháng",
+       "x": 540,
+       "y": 640,
+       "at": 1.3,
+       "serif": true,
+       "size": 60
+      },
+      {
+       "k": "flow",
+       "from": [
+        500,
+        690
+       ],
+       "to": [
+        380,
+        870
+       ],
+       "bend": -0.1,
+       "at": 1.9,
+       "dur": 0.8,
+       "color": "red",
+       "n": 6
+      },
+      {
+       "k": "logo",
+       "key": "chatgpt",
+       "x": 380,
+       "y": 900,
+       "size": 110,
+       "at": 1.78
+      },
+      {
+       "k": "flow",
+       "from": [
+        580,
+        690
+       ],
+       "to": [
+        700,
+        870
+       ],
+       "bend": 0.1,
+       "at": 2.85,
+       "dur": 0.8,
+       "color": "red",
+       "n": 6
+      },
+      {
+       "k": "logo",
+       "key": "midjourney",
+       "x": 700,
+       "y": 900,
+       "size": 110,
+       "at": 2.82
+      }
+     ],
+     "layers": []
+    }
+   ],
+   "noMediaReason": "archive.org (curated) 27/10: 11 results for money/cash/coins, none on topic; no pricing screenshots in project"
+  },
+  {
+   "start": 3.53,
+   "end": 5.66,
+   "layout": "full",
+   "zoom": 1.0
+  },
+  {
+   "start": 5.66,
+   "end": 8.66,
+   "layout": "full",
+   "zoom": 1.18
+  },
+  {
+   "start": 8.66,
+   "end": 17.4,
+   "layout": "split",
+   "theme": "dark",
+   "scenes": [
+    {
+     "type": "illus",
+     "at": 8.66,
+     "title": {
+      "text": "<google> Google chỉ có\n<gemini> _Gemini_?",
+      "size": 70
+     },
+     "items": [
+      {
+       "k": "logo",
+       "key": "google",
+       "x": 540,
+       "y": 470,
+       "size": 130,
+       "at": 9.3
+      },
+      {
+       "k": "line",
+       "from": [
+        540,
+        550
+       ],
+       "to": [
+        540,
+        650
+       ],
+       "at": 9.9,
+       "dur": 0.3,
+       "color": "white",
+       "width": 3,
+       "arrow": true
+      },
+      {
+       "k": "label",
+       "text": "?",
+       "x": 860,
+       "y": 820,
+       "at": 10.85,
+       "size": 120,
+       "color": "white"
+      }
+     ],
+     "layers": [
+      {
+       "type": "showcase",
+       "cards": [
+        {
+         "src": "media/gemini_1.webp",
+         "at": 10.0,
+         "x": 240,
+         "y": 680,
+         "w": 600,
+         "h": 340
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "illus",
+     "at": 11.85,
+     "transition": "morph",
+     "morphOrigin": "540px 700px",
+     "title": {
+      "text": "Hệ sinh thái\n{9 công cụ miễn phí}",
+      "size": 66,
+      "at": 13.7
+     },
+     "items": [
+      {
+       "k": "logo",
+       "key": "google",
+       "x": 540,
+       "y": 640,
+       "size": 150,
+       "at": 11.9
+      },
+      {
+       "k": "line",
+       "from": [
+        540,
+        640
+       ],
+       "to": [
+        540,
+        364
+       ],
+       "at": 14.25,
+       "dur": 0.3,
+       "color": "white",
+       "width": 2
+      },
+      {
+       "k": "logo",
+       "key": "aistudio",
+       "x": 540,
+       "y": 364,
+       "size": 84,
+       "at": 14.3
+      },
+      {
+       "k": "line",
+       "from": [
+        540,
+        640
+       ],
+       "to": [
+        733,
+        429
+       ],
+       "at": 14.32,
+       "dur": 0.3,
+       "color": "white",
+       "width": 2
+      },
+      {
+       "k": "logo",
+       "key": "opal",
+       "x": 733,
+       "y": 429,
+       "size": 84,
+       "at": 14.370000000000001
+      },
+      {
+       "k": "line",
+       "from": [
+        540,
+        640
+       ],
+       "to": [
+        835,
+        592
+       ],
+       "at": 14.39,
+       "dur": 0.3,
+       "color": "white",
+       "width": 2
+      },
+      {
+       "k": "logo",
+       "key": "notebooklm",
+       "x": 835,
+       "y": 592,
+       "size": 84,
+       "at": 14.440000000000001
+      },
+      {
+       "k": "line",
+       "from": [
+        540,
+        640
+       ],
+       "to": [
+        800,
+        778
+       ],
+       "at": 14.46,
+       "dur": 0.3,
+       "color": "white",
+       "width": 2
+      },
+      {
+       "k": "logo",
+       "key": "pomelli",
+       "x": 800,
+       "y": 778,
+       "size": 84,
+       "at": 14.510000000000002
+      },
+      {
+       "k": "line",
+       "from": [
+        540,
+        640
+       ],
+       "to": [
+        643,
+        899
+       ],
+       "at": 14.53,
+       "dur": 0.3,
+       "color": "white",
+       "width": 2
+      },
+      {
+       "k": "logo",
+       "key": "gemini",
+       "x": 643,
+       "y": 899,
+       "size": 84,
+       "at": 14.58
+      },
+      {
+       "k": "line",
+       "from": [
+        540,
+        640
+       ],
+       "to": [
+        437,
+        899
+       ],
+       "at": 14.6,
+       "dur": 0.3,
+       "color": "white",
+       "width": 2
+      },
+      {
+       "k": "logo",
+       "key": "flow",
+       "x": 437,
+       "y": 899,
+       "size": 84,
+       "at": 14.65
+      },
+      {
+       "k": "line",
+       "from": [
+        540,
+        640
+       ],
+       "to": [
+        280,
+        778
+       ],
+       "at": 14.67,
+       "dur": 0.3,
+       "color": "white",
+       "width": 2
+      },
+      {
+       "k": "logo",
+       "key": "stitch",
+       "x": 280,
+       "y": 778,
+       "size": 84,
+       "at": 14.72
+      },
+      {
+       "k": "line",
+       "from": [
+        540,
+        640
+       ],
+       "to": [
+        245,
+        592
+       ],
+       "at": 14.74,
+       "dur": 0.3,
+       "color": "white",
+       "width": 2
+      },
+      {
+       "k": "logo",
+       "key": "firebase",
+       "x": 245,
+       "y": 592,
+       "size": 84,
+       "at": 14.790000000000001
+      },
+      {
+       "k": "line",
+       "from": [
+        540,
+        640
+       ],
+       "to": [
+        347,
+        429
+       ],
+       "at": 14.81,
+       "dur": 0.3,
+       "color": "white",
+       "width": 2
+      },
+      {
+       "k": "logo",
+       "key": "antigravity",
+       "x": 347,
+       "y": 429,
+       "size": 84,
+       "at": 14.860000000000001
+      },
+      {
+       "k": "orb",
+       "x": 540,
+       "y": 640,
+       "r": 170,
+       "color": "magenta",
+       "at": 12.0,
+       "dur": 0.6
+      },
+      {
+       "k": "flow",
+       "from": [
+        540,
+        640
+       ],
+       "to": [
+        540,
+        364
+       ],
+       "at": 15.2,
+       "dur": 0.9,
+       "color": "magenta",
+       "n": 5
+      },
+      {
+       "k": "label",
+       "text": "Coding",
+       "x": 300,
+       "y": 1060,
+       "at": 16.13,
+       "pill": true,
+       "size": 34
+      },
+      {
+       "k": "label",
+       "text": "Marketing",
+       "x": 540,
+       "y": 1060,
+       "at": 16.37,
+       "pill": true,
+       "size": 34
+      },
+      {
+       "k": "label",
+       "text": "Media",
+       "x": 780,
+       "y": 1060,
+       "at": 16.84,
+       "pill": true,
+       "size": 34
+      }
+     ],
+     "layers": []
+    }
+   ],
+   "card": false
+  },
+  {
+   "start": 17.4,
+   "end": 27.66,
+   "layout": "split",
+   "theme": "dark",
+   "scenes": [
+    {
+     "type": "badge",
+     "at": 17.4,
+     "content": {
+      "text": "1"
+     },
+     "morph": [
+      {
+       "at": 18.12,
+       "logo": "aistudio",
+       "label": "Google AI Studio"
+      }
+     ],
+     "fly": {
+      "at": 19.25,
+      "dur": 0.5
+     },
+     "y": 640,
+     "size": 230,
+     "layers": [
+      {
+       "type": "showcase",
+       "cards": [
+        {
+         "src": "media/aistudio_1.webp",
+         "at": 19.45,
+         "x": 160,
+         "y": 330,
+         "w": 760,
+         "h": 470
+        }
+       ]
+      },
+      {
+       "type": "illus",
+       "items": [
+        {
+         "k": "label",
+         "text": "Vibe Coding",
+         "x": 700,
+         "y": 870,
+         "at": 20.62,
+         "serif": true,
+         "size": 76
+        },
+        {
+         "k": "label",
+         "text": "không cần giỏi lập trình",
+         "x": 540,
+         "y": 960,
+         "at": 21.2,
+         "pill": true,
+         "size": 32
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "illus",
+     "at": 22.56,
+     "transition": "morph",
+     "title": {
+      "text": "<aistudio> Mô tả → _app chạy được_",
+      "size": 60
+     },
+     "items": [
+      {
+       "k": "icon",
+       "name": "message-square",
+       "x": 230,
+       "y": 560,
+       "size": 170,
+       "at": 22.62,
+       "dur": 0.5
+      },
+      {
+       "k": "label",
+       "text": "“tiếng Việt\ntự nhiên”",
+       "x": 230,
+       "y": 720,
+       "at": 23.7,
+       "serif": true,
+       "size": 44
+      },
+      {
+       "k": "flow",
+       "from": [
+        320,
+        560
+       ],
+       "to": [
+        450,
+        560
+       ],
+       "at": 24.7,
+       "dur": 0.7,
+       "color": "magenta",
+       "n": 4
+      },
+      {
+       "k": "icon",
+       "name": "code",
+       "x": 540,
+       "y": 560,
+       "size": 170,
+       "at": 25.3,
+       "dur": 0.45,
+       "color": "magenta"
+      },
+      {
+       "k": "line",
+       "from": [
+        630,
+        560
+       ],
+       "to": [
+        760,
+        560
+       ],
+       "at": 25.95,
+       "dur": 0.3,
+       "color": "white",
+       "width": 4,
+       "arrow": true,
+       "dot": {
+        "at": 26.2,
+        "dur": 0.5,
+        "loop": true
+       }
+      },
+      {
+       "k": "icon",
+       "name": "smartphone",
+       "x": 850,
+       "y": 560,
+       "size": 180,
+       "at": 26.0,
+       "dur": 0.45,
+       "states": [
+        {
+         "at": 26.45,
+         "color": "magenta"
+        }
+       ],
+       "pulse": true
+      },
+      {
+       "k": "icon",
+       "name": "hourglass",
+       "x": 540,
+       "y": 860,
+       "size": 110,
+       "at": 27.05,
+       "dur": 0.35,
+       "color": "white"
+      },
+      {
+       "k": "label",
+       "text": "vài phút",
+       "x": 540,
+       "y": 990,
+       "at": 27.25,
+       "serif": true,
+       "size": 64
+      }
+     ],
+     "layers": []
+    }
+   ],
+   "card": false
+  }
+ ],
+ "palette": [
+  "red",
+  "magenta"
+ ]
+}

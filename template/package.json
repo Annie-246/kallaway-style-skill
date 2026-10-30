@@ -1,0 +1,16 @@
+{
+  "name": "kallaway-style-video",
+  "private": true,
+  "scripts": {
+    "studio": "remotion studio src/index.ts",
+    "render": "remotion render src/index.ts Kallaway out/draft.mp4",
+    "still": "remotion still src/index.ts Kallaway"
+  },
+  "dependencies": {
+    "@remotion/cli": "4.0.524",
+    "@remotion/fonts": "4.0.524",
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0",
+    "remotion": "4.0.524"
+  }
+}

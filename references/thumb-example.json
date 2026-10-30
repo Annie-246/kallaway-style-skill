@@ -1,0 +1,167 @@
+{
+ "fps": 30,
+ "duration": 177.01,
+ "source": {
+  "video": "source/cut.mp4",
+  "matte": "source/person.webm",
+  "cardEyeY": -40,
+  "w": 1920,
+  "h": 1080,
+  "face": {
+   "x": 960,
+   "y": 412
+  },
+  "cardZoom": 1.8
+ },
+ "logos": {
+  "aistudio": {
+   "dark": "logos/aistudio.png",
+   "light": "logos/aistudio.png"
+  },
+  "opal": {
+   "dark": "logos/opal.png",
+   "light": "logos/opal.png"
+  },
+  "notebooklm": {
+   "dark": "logos/notebooklm.png",
+   "light": "logos/notebooklm.png"
+  },
+  "pomelli": {
+   "dark": "logos/pomelli.png",
+   "light": "logos/pomelli.png"
+  },
+  "gemini": {
+   "dark": "logos/gemini.png",
+   "light": "logos/gemini.png"
+  },
+  "stitch": {
+   "dark": "logos/stitch.png",
+   "light": "logos/stitch.png"
+  },
+  "firebase": {
+   "dark": "logos/firebase.png",
+   "light": "logos/firebase.png"
+  },
+  "antigravity": {
+   "dark": "logos/antigravity.png",
+   "light": "logos/antigravity.png"
+  },
+  "chatgpt": {
+   "dark": "logos/chatgpt.png",
+   "light": "logos/chatgpt.png"
+  },
+  "midjourney": {
+   "dark": "logos/midjourney.png",
+   "light": "logos/midjourney.png"
+  },
+  "claude": {
+   "dark": "logos/claude.png",
+   "light": "logos/claude.png"
+  },
+  "figma": {
+   "dark": "logos/figma.png",
+   "light": "logos/figma.png"
+  },
+  "google": {
+   "dark": "logos/google.png",
+   "light": "logos/google.png"
+  },
+  "openai": {
+   "dark": "logos/openai.png",
+   "light": "logos/openai.png"
+  },
+  "flow": {
+   "dark": "logos/flow-white.png",
+   "light": "logos/flow.png"
+  }
+ },
+ "words": [],
+ "captions": {
+  "serif": [],
+  "hide": []
+ },
+ "sfx": [],
+ "segments": [
+  {
+   "start": 0,
+   "end": 177.01,
+   "layout": "split",
+   "theme": "dark",
+   "scenes": [
+    {
+     "type": "none",
+     "at": 0,
+     "drift": 0,
+     "title": {
+      "text": "{Ngừng} trả tiền AI\n9 tool _miễn phí_",
+      "size": 104,
+      "y": 120
+     },
+     "layers": [
+      {
+       "type": "logos",
+       "items": [
+        {
+         "key": "aistudio",
+         "at": 0
+        },
+        {
+         "key": "opal",
+         "at": 0
+        },
+        {
+         "key": "notebooklm",
+         "at": 0
+        }
+       ],
+       "y": 600,
+       "size": 205,
+       "gap": 48
+      },
+      {
+       "type": "logos",
+       "items": [
+        {
+         "key": "pomelli",
+         "at": 0
+        },
+        {
+         "key": "gemini",
+         "at": 0,
+         "greenAt": 0
+        },
+        {
+         "key": "flow",
+         "at": 0
+        }
+       ],
+       "y": 840,
+       "size": 205,
+       "gap": 48
+      },
+      {
+       "type": "logos",
+       "items": [
+        {
+         "key": "stitch",
+         "at": 0
+        },
+        {
+         "key": "firebase",
+         "at": 0
+        },
+        {
+         "key": "antigravity",
+         "at": 0
+        }
+       ],
+       "y": 1080,
+       "size": 205,
+       "gap": 48
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

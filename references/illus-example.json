@@ -1,0 +1,239 @@
+[
+ {
+  "type": "illus",
+  "at": 0.0,
+  "title": {
+   "text": "<claude> Claude _gom thông tin_",
+   "size": 66
+  },
+  "items": [
+   {
+    "k": "icon",
+    "name": "file-text",
+    "x": 230,
+    "y": 470,
+    "size": 120,
+    "at": 0.2,
+    "dur": 0.5
+   },
+   {
+    "k": "icon",
+    "name": "video",
+    "x": 230,
+    "y": 650,
+    "size": 120,
+    "at": 0.35,
+    "dur": 0.5
+   },
+   {
+    "k": "icon",
+    "name": "globe",
+    "x": 230,
+    "y": 830,
+    "size": 120,
+    "at": 0.5,
+    "dur": 0.5
+   },
+   {
+    "k": "flow",
+    "from_": 0,
+    "from": [
+     300,
+     470
+    ],
+    "to": [
+     700,
+     640
+    ],
+    "at": 0.9,
+    "dur": 1.1,
+    "color": "magenta"
+   },
+   {
+    "k": "flow",
+    "from": [
+     300,
+     650
+    ],
+    "to": [
+     700,
+     650
+    ],
+    "at": 1.0,
+    "dur": 1.1,
+    "color": "magenta"
+   },
+   {
+    "k": "flow",
+    "from": [
+     300,
+     830
+    ],
+    "to": [
+     700,
+     660
+    ],
+    "at": 1.1,
+    "dur": 1.1,
+    "color": "magenta"
+   },
+   {
+    "k": "orb",
+    "x": 780,
+    "y": 650,
+    "r": 200,
+    "color": "magenta",
+    "at": 1.4,
+    "dur": 0.6
+   },
+   {
+    "k": "icon",
+    "name": "brain",
+    "x": 780,
+    "y": 650,
+    "size": 260,
+    "at": 0.7,
+    "dur": 0.9,
+    "states": [
+     {
+      "at": 2.3,
+      "color": "green"
+     }
+    ],
+    "pulse": true
+   },
+   {
+    "k": "label",
+    "text": "các ý lớn",
+    "x": 780,
+    "y": 850,
+    "at": 2.4,
+    "serif": true,
+    "size": 60
+   }
+  ]
+ },
+ {
+  "type": "illus",
+  "at": 3.6,
+  "transition": "morph",
+  "title": {
+   "text": "Tiếng Việt\n[chưa tự nhiên]",
+   "size": 66
+  },
+  "items": [
+   {
+    "k": "icon",
+    "name": "message-square",
+    "x": 540,
+    "y": 640,
+    "size": 320,
+    "at": 3.7,
+    "dur": 0.7,
+    "level": {
+     "at": 4.6,
+     "dur": 1.2,
+     "color": "red",
+     "to": 0.75
+    }
+   },
+   {
+    "k": "ring",
+    "x": 760,
+    "y": 470,
+    "r": 70,
+    "at": 5.6,
+    "dur": 0.4,
+    "color": "red",
+    "width": 6
+   },
+   {
+    "k": "icon",
+    "name": "x",
+    "x": 760,
+    "y": 470,
+    "size": 90,
+    "at": 5.8,
+    "dur": 0.3,
+    "color": "red"
+   },
+   {
+    "k": "label",
+    "text": "cứng · dịch máy",
+    "x": 540,
+    "y": 880,
+    "at": 5.0,
+    "pill": true,
+    "size": 34
+   }
+  ]
+ },
+ {
+  "type": "illus",
+  "at": 7.2,
+  "transition": "morph",
+  "title": {
+   "text": "<chatgpt> ChatGPT _viết lại_",
+   "size": 66
+  },
+  "items": [
+   {
+    "k": "icon",
+    "name": "pen-tool",
+    "x": 330,
+    "y": 520,
+    "size": 170,
+    "at": 7.3,
+    "dur": 0.6
+   },
+   {
+    "k": "path",
+    "d": "M300,760 C380,700 440,820 520,760 S660,700 740,760 S860,820 900,740",
+    "at": 7.9,
+    "dur": 1.4,
+    "color": "yellow",
+    "width": 7
+   },
+   {
+    "k": "icon",
+    "name": "sparkles",
+    "x": 850,
+    "y": 560,
+    "size": 130,
+    "at": 9.1,
+    "dur": 0.5,
+    "color": "yellow"
+   },
+   {
+    "k": "array",
+    "name": "user",
+    "n": 10,
+    "cols": 5,
+    "x": 540,
+    "y": 930,
+    "size": 70,
+    "gap": 30,
+    "at": 9.6,
+    "step": 0.04,
+    "on": {
+     "count": 7,
+     "at": 10.2,
+     "step": 0.08,
+     "color": "green"
+    }
+   },
+   {
+    "k": "counter",
+    "from": 0,
+    "to": 70,
+    "suffix": "%",
+    "x": 540,
+    "y": 1110,
+    "size": 90,
+    "at": 10.2,
+    "dur": 0.9,
+    "color": "green"
+   }
+  ]
+ }
+]
